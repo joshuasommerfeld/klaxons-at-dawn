@@ -90,12 +90,12 @@ When a player is trying to create something, prove their knowledge, plan and sup
 # Tension Meters
 
 There are 2 tension meters:
-* Survivors: Representing the rising angst and fear among the PC or NPC survivors, or even in the general world.
-* Zombies: Representing the increasing power of the zombies as more people are turned in these opening days of the apocalypse.
+* Survivor: Representing the rising angst and fear among the PC or NPC survivors, or even in the general world.
+* Zombie: Representing the increasing power of the zombies as more people are turned in these opening days of the apocalypse.
 
 Each meter starts at 0
 
-Whenever a player fails a check, add 1 to either the human or zombie tension meter (GM should choose which they feel is more appropriate).
+Whenever a player fails a check, add 1 to either the survivor or zombie tension meter (GM should choose which they feel is more appropriate).
 
 Whenever a tension meter reaches the number of players, an escalation happens. 
 Escalations add new elements, obstacles and challenges into the story.
