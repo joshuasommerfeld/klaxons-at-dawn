@@ -38,8 +38,8 @@ The group should decide on a name for the destination. This place has the outbre
 ## Scenes
 
 Players should be seated in a circle. 
-Progressing clockwise, the players should take turns describing a scene that involves their character. 
-This scene should be played out among the player characters, though not all PCs need to be involved in all scenes. 
+Progressing clockwise, the players take turns describing a scene setup that involves their character. 
+This scene is then played out among the players, though not all PCs need to be involved in all scenes. 
 
 The best scenes display the strengths or weaknesses of the active player character through the lens of the evolving predicaments facing the survivors.
 They should be short and snappy, ideally no more than 5 minutes.
@@ -53,8 +53,18 @@ The first director scene of the game should ALWAYS add 1 to the zombie tension m
 ## Escalations
 
 As the game progresses, PCs will fail. When this happens, tensions rise. 
+These are represented by tension meters, and when they overflow, an escalation event occurs.
 The game ends after the 5th escalation, triggering the final escalation.
 If the PCs made it to the utopian destination at the end of this, they did it!
+
+## Gear
+
+PCs may use their scenes in order to obtain an item that will assist them throughout the game.
+Gear can be obtained on the active PCs turn (may require a check).
+
+Gear allows the PC to change the number on a single die by 1 during a check.
+Gear can be sacrificed in order to add a success to a check.
+Gear is also useful during the final escalation.
 
 ## Checks
 
@@ -128,7 +138,7 @@ Things are getting serious. This is it. From here on out, any failures on checks
 2. Another player sacrifices themselves for them. 
 
 Once the final escalation occurs, each player is allowed two scenes. 
-All PCs should either have made it to the destination or died by this time.
+All PCs should either have made it to the destination or have died by this time.
 
 # Character Creation
 
