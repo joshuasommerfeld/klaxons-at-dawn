@@ -62,9 +62,11 @@ If the PCs made it to the utopian destination at the end of this, they did it!
 PCs may use their scenes in order to obtain an item that will assist them throughout the game.
 Gear can be obtained on the active PCs turn (may require a check).
 
-Gear allows the PC to change the number on a single die by 1 during a check.
-Gear can be sacrificed in order to add a success to a check.
-Gear is also useful during the final escalation.
+Gear:
+ - Allows the PC to change the number on a single die by 1 during a check where the item would be relevant.
+ - Can also be sacrificed in order to add a single success to a check.
+
+Gear is also useful during the final escalation, in that it can help your character survive.
 
 ## Checks
 
