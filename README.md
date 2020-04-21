@@ -12,14 +12,28 @@ Klaxons at Dawn aims to invoke the feeling of the zombie movie Train to Busan.
 - Paper
 - A bunch of six-sided dice
 - 4 - 6 players
-  - 1 player will act as the "director"
+  - 1 player will act as the "director".
+  - The rest of the players will be a player character (PC).
 
 ## Goal
 
-Take the transport to the utopian destination, and don't die to zombies!
+Take the transport to the utopian destination, and don't get eaten by zombies!
 
 This game is built around the scenario that the player characters are on the same type of transport when the zombie outbreak begins. 
-This motley group of strangers will need to band together to protect this transport, keep it moving, and get to the utopian destination.
+This group of strangers will need to band together to protect this transport, keep it moving, and get to the utopian destination.
+
+## Core Concept Glossary
+
+- **Player**: A member of the playgroup, including the director.
+- **Character** or **PC**: A character which a player is role playing as.
+- **Scene**: Players will take turns setting up scenes, which the players will then role play out.
+- **Active player**: The player who set the current scene up.
+- **Check**: A player will have to roll dice in order to determine whether their character succeeds or fails at non-trivial tasks.
+- **Gear**: Characters may find gear during the story they can use to help them survive.
+- **Tension Meters**: When a character fails at a task, tension meters will grow. When they overflow, an escalation occurs.
+- **Escalation**: An event that adds new elements and obstacles into the story. There are 5 in a game of Klaxons at Dawn, with the last one being the *final escalation*
+- **Final Escalation**: The last scenes as tension reach a fever pitch. This leads to the final moments of the story.
+
 
 ### Transport
 
@@ -46,14 +60,15 @@ They should be short and snappy, ideally no more than 5 minutes.
 
 Each players first scene should describe a facet of their normal lives and explain how they found themselves on the transport that day.
 
-The Director goes last in scene order. 
+The director goes last in scene order. 
 When it's the directors turn, they describe a scene that escalates tensions with the zombie outbreak or the survivors and adds 1 to the relevant tension meter.
 The first director scene of the game should ALWAYS add 1 to the zombie tension meter.
 
 ## Escalations
 
-As the game progresses, PCs will fail. When this happens, tensions rise. 
-These are represented by tension meters, and when they overflow, an escalation event occurs.
+As the game progresses, PCs will roll dice to see if their player character succeeds or fails at certain activities. 
+When they fail, things get worse for the survivors. 
+This is represented by **Tension Meters**, and when they overflow, an escalation event occurs.
 The game ends after the 5th escalation, triggering the final escalation.
 If the PCs made it to the utopian destination at the end of this, they did it!
 
@@ -88,15 +103,15 @@ Roll the dice and count your successes:
 Each character has two ratings: Personality and Aptitude. Successes are determined by the following:
 
 ### Personality
-#### Truthful, charming, convincing
+#### Leading, charming, being honest
 When a player is honest and aiming to be convincing, charismatic, or show leadership they need to roll their Personality rating or under
-#### Sneaking, deceiving, 
+#### Deceiving, Sneaking, subverting
 When a player is aiming to trick or do something underhanded, they need to roll their Personality rating or above
 
 ### Aptitude
 #### Fighting, running, leaping
 When a player is trying to kick some ass, or pull off something that is physically taxing, they need to roll their Aptitude rating or under
-#### Planning, thinking, fixing
+#### Planning, building, fixing
 When a player is trying to create something, prove their knowledge, plan and support others, they need to roll their Aptitude rating or above
 
 # Tension Meters
@@ -107,12 +122,12 @@ There are 2 tension meters:
 
 Each meter starts at 0
 
-Whenever a player fails a check, add 1 to either the survivor or zombie tension meter (GM should choose which they feel is more appropriate).
+Whenever a player fails a check, add 1 to either the survivor or zombie tension meter (Director should choose which they feel is more appropriate).
 
 Whenever a tension meter reaches the number of players, an escalation happens. 
 Escalations add new elements, obstacles and challenges into the story.
 
-When an escalation happens, the GM should mark it down and then roll on the associated table. 
+When an escalation happens, the Director should mark it down and then roll on the associated table. 
 If it's the fifth escalation, instead trigger The Final Escalation.
 
 ## Zombie Escalations
@@ -126,7 +141,7 @@ If it's the fifth escalation, instead trigger The Final Escalation.
 
 ## Human Escalations
 
-1. Something happens that splits the party into two. GM chooses who gets paired.
+1. Something happens that splits the party into two. The Director chooses who gets paired.
 2. Surivior party runs into another group of survivors, but they are hostile.
 3. The vehicle blows up and the survivors will have to find an alternative transport.
 4. A military operations unit shows up, purging zombies and survivors alike.
@@ -175,7 +190,7 @@ Your motivation is simple: Take care of number one. You carved out a dark little
 
 **Advantage**: When you're lying to people, being underhanded.
 
-**Special**: One time, you can steal any piece of gear off another player without them (immediately) knowing.
+**Special**: One time, you can give the players an alternative to a decision (forced or no) made by the Paragon. All other players can choose to go with you, or stay with the Paragon.
 
 ### Survivalist
 You were prepared for this. Whether you wanted it to happen, or whether it kept you up at night, you've got everything you need in that head of yours. Surround yourself with people that are useful, and the rest...well they aren't going to make it anyway. Just follow your rules, and don't do anything stupid.
@@ -188,14 +203,15 @@ You were prepared for this. Whether you wanted it to happen, or whether it kept 
 How did you even get in this situation? Work, TV, friends, you liked your simple life. Now people seem to disregard you and your opinions. Secretly though you are the beating heart of this rag tag ensemble, you're the glue that sticks them together. Whether it's tempering the passionate but misguided opinions of the paragon, or getting the paranoid Survivalist on side, you'll pull through when they really need you. You're not too sure about the Miscreant though...
 
 **Advantage**: When you're calming people down, bringing people together.
-**Special**: One time, you can force a critical success instead of rolling.
+
+**Special**: One time, you can get an automatic critical success on a check instead of rolling.
 
 ### Paragon
 You have an iron will and a vision. You will do anything to protect those around you, friend or enemy. You can save everyone, and you demand success from this dark world. Your unshakable belief will lead to safety, or maybe salvation. You know what's best for them, even if they don't agree sometimes.
 
 **Advantage**: When convincing people to do the "right" thing.
 
-**Special**: One time, you can "create" an NPC with just the right set of skills.
+**Special**: Any time, you can add 1 to the survivor tension meter to get your way on a survivor group decision.
 
 ## Aptitude
 
@@ -204,25 +220,25 @@ You can see what that others can't. The ties and tensions between people, the fo
 
 **Advantage**: When hatching a plan.
 
-**Special**: One time, you can 
+**Special**: _When a plan comes together_: One time, you can choose to give all other PCs an extra die to use on checks on bringing the plan together.
 
 ### Support
 You have dedicated your life to helping others. You've seen what happens when people take what they need and give nothing back. Now more than ever you know that being there for those around you is the only chance you all have at surviving.
 
 **Advantage**: When helping another.
 
-**Special**: One time, you can help another player by giving them a critical success instead of them rolling.
+**Special**: _Helping hand_:One time, you can help another player by giving them a critical success instead of them rolling.
 
 ### Wildcard
 You're a go getter. You get things done when no one else could. Some say you're too extreme. Some say you're bat shit insane. But you come out on top when no one expects it. Physically you're not much to look at, but you've got more in the tank than people think. So let them underestimate you. That's how you like it.
 
 **Advantage**: When doing something so crazy, it just might work.
 
-**Special**: 
+**Special Move**: _Reckless_: Any time, you can add 1 to the zombie tension meter in order to add 1 success to a check.
 
 ### Warrior
-Maybe you had the fight in you all along. Maybe the Klaxxons awakened something in you that slept, dormant just under the surface. Either way, you were born for a violent world. You are a primal force to be reckoned with, and nothing is standing between you, your loves ones, and survival.
+Maybe you had the fight in you all along. Maybe the Klaxons awakened something in you that slept, dormant just under the surface. Either way, you were born for a violent world. You are a primal force to be reckoned with, and nothing is standing between you, your loves ones, and survival.
 
 **Advantage**: Beating the ever loving crap out of something.
 
-**Special**: You cannot be killed by zombies, unless you willingly sacrifice yourself for another.
+**Special**: _Unbreakable_: You cannot be killed by zombies, unless you willingly sacrifice yourself for another.
