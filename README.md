@@ -1,8 +1,15 @@
 # Klaxons at Dawn
 
-A game about an unlikely group of strangers surviving the start of the zombie apocalypse trapped on a runaway transport.
+A game about an unlikely group of strangers banding together to survive the start of the zombie apocalypse while trapped on a runaway transport.
 
-Klaxons at Dawn aims to invoke the feeling of the zombie movie Train to Busan.
+Klaxons at Dawn is a role playing game which aims to invoke the feeling of the zombie movie Train to Busan. Unlike many role playing games, the characters and the director have equal input into the collaborative creation of the story, and there may be conflict between characters during the game. 
+
+## Content Warnings
+- Zombies
+- Death
+- Party conflict
+
+If your players are not comfortable with cross-character tension this game may not be for you!
 
 # Gameplay
 
@@ -186,28 +193,28 @@ eg. A player could take a 2 from the pool and proclaim they are either a Surival
 
 ## Personality
 
-### Miscreant
+### 2 Miscreant
 Your motivation is simple: Take care of number one. You carved out a dark little nook in "polite" society. You lied, you connived,  you fucked over everyone around you just to get by. They would have done the same to you. Now that the world has turned upside down, you see an opportunity: to finally come out on top.
 
 **Advantage**: When you're lying to people, being underhanded.
 
-**Special**: One time, you can give the players an alternative to a decision (forced or no) made by the Paragon. All other players can choose to go with you, or stay with the Paragon.
+**Special**: One time, you can give the players an alternative to a decision made by the active character or Paragon. All other players can choose to go with you, or stay with the active player or Paragon.
 
-### Survivalist
-You were prepared for this. Whether you wanted it to happen, or whether it kept you up at night, you've got everything you need in that head of yours. Surround yourself with people that are useful, and the rest...well they aren't going to make it anyway. Just follow your rules, and don't do anything stupid.
+### 3 Wildcard
+You're a go getter. You get things done when no one else could. Some say you're too extreme. Some say you're bat shit insane. But you come out on top when no one expects it. Physically you're not much to look at, but you've got more in the tank than people think. So let them underestimate you. That's how you like it.
 
-**Advantage**: When being pragmatic, knowing things.
+**Advantage**: When doing something so crazy, it just might work.
 
-**Special**: One time, you have "just the right thing for the job" and gain exactly the piece of gear you want.
+**Special Move**: _Reckless_: Any time, you can add 1 to the zombie tension meter in order to add 1 success to a check.
 
-### Average Joe
+### 4 Average Joe
 How did you even get in this situation? Work, TV, friends, you liked your simple life. Now people seem to disregard you and your opinions. Secretly though you are the beating heart of this rag tag ensemble, you're the glue that sticks them together. Whether it's tempering the passionate but misguided opinions of the paragon, or getting the paranoid Survivalist on side, you'll pull through when they really need you. You're not too sure about the Miscreant though...
 
 **Advantage**: When you're calming people down, bringing people together.
 
 **Special**: One time, you can get an automatic critical success on a check instead of rolling.
 
-### Paragon
+### 5 Paragon
 You have an iron will and a vision. You will do anything to protect those around you, friend or enemy. You can save everyone, and you demand success from this dark world. Your unshakable belief will lead to safety, or maybe salvation. You know what's best for them, even if they don't agree sometimes.
 
 **Advantage**: When convincing people to do the "right" thing.
@@ -216,28 +223,28 @@ You have an iron will and a vision. You will do anything to protect those around
 
 ## Aptitude
 
-### Mastermind
+### 2 Mastermind
 You can see what that others can't. The ties and tensions between people, the forces that are governing your society. You've succeeded by planning ahead. While the rules of the world have changed, you have not. You learn fast.
 
 **Advantage**: When hatching a plan.
 
 **Special**: _When a plan comes together_: One time, you can choose to give all other PCs an extra die to use on checks on bringing the plan together.
 
-### Support
+### 3 Support
 You have dedicated your life to helping others. You've seen what happens when people take what they need and give nothing back. Now more than ever you know that being there for those around you is the only chance you all have at surviving.
 
 **Advantage**: When helping another.
 
 **Special**: _Helping hand_:One time, you can help another player by giving them a critical success instead of them rolling.
 
-### Wildcard
-You're a go getter. You get things done when no one else could. Some say you're too extreme. Some say you're bat shit insane. But you come out on top when no one expects it. Physically you're not much to look at, but you've got more in the tank than people think. So let them underestimate you. That's how you like it.
+### 4 Survivalist
+You were prepared for this. Whether you wanted it to happen, or whether it kept you up at night, you've got everything you need in that head of yours. Surround yourself with people that are useful, and the rest...well they aren't going to make it anyway. Just follow your rules, and don't do anything stupid.
 
-**Advantage**: When doing something so crazy, it just might work.
+**Advantage**: When being pragmatic, knowing things.
 
-**Special Move**: _Reckless_: Any time, you can add 1 to the zombie tension meter in order to add 1 success to a check.
+**Special**: _Prepared_: One time, you have "just the right thing for the job" and gain exactly the piece of gear you want.
 
-### Warrior
+### 5 Warrior
 Maybe you had the fight in you all along. Maybe the Klaxons awakened something in you that slept, dormant just under the surface. Either way, you were born for a violent world. You are a primal force to be reckoned with, and nothing is standing between you, your loves ones, and survival.
 
 **Advantage**: Beating the ever loving crap out of something.
