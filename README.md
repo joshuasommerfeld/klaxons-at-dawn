@@ -35,6 +35,7 @@ This group of strangers will need to band together to protect the transport, kee
 - **Player**: A member of the playgroup, including the director.
 - **Character** or **PC**: A character which a player is role playing as.
 - **Director**: The player who is setting up obstacles and challenges for the PCs to overcome.
+- **Non-player character (NPC)**: A survivor character not related to any player.
 - **Scene**: Players will take turns setting up scenes, which the players will then role play out.
 - **Active player / Active character**: The player who set the current scene up.
 - **Check**: A player will have to roll dice in order to determine whether their character succeeds or fails at non-trivial tasks.
