@@ -1,12 +1,13 @@
 # Klaxons at Dawn
 
-A game about an unlikely group of strangers banding together to survive the start of the zombie apocalypse while trapped on a runaway transport.
+A game about a group of strangers banding together to survive the start of the zombie apocalypse while trapped on a runaway transport.
 
-Klaxons at Dawn is a role playing game which aims to invoke the feeling of the zombie movie Train to Busan. Unlike many role playing games, the characters and the director have equal input into the collaborative creation of the story, and there may be conflict between characters during the game. 
+Klaxons at Dawn is a role playing game which aims to invoke the zombie movie Train to Busan. All players have equal input into the collaborative creation of the story, with most players taking the role of survivors, and 1 player taking the role of the zombie threat.
 
 ## Content Warnings
 - Zombies
 - Death
+- Societal collapse
 - Party conflict
 
 If your players are not comfortable with cross-character tension this game may not be for you!
@@ -26,8 +27,8 @@ If your players are not comfortable with cross-character tension this game may n
 
 Take the transport to the utopian destination, and don't get eaten by zombies!
 
-This game is built around the scenario that the player characters are on the same type of transport when the zombie outbreak begins. 
-This group of strangers will need to band together to protect this transport, keep it moving, and get to the utopian destination.
+Klaxons at Dawn is built around the scenario that the player characters are on the same type of transport when the zombie outbreak begins. 
+This group of strangers will need to band together to protect the transport, keep it moving, and get to the utopian destination before the zombies.
 
 ## Core Concept Glossary
 
@@ -35,13 +36,12 @@ This group of strangers will need to band together to protect this transport, ke
 - **Character** or **PC**: A character which a player is role playing as.
 - **Director**: The player who is setting up obstacles and challenges for the PCs to overcome.
 - **Scene**: Players will take turns setting up scenes, which the players will then role play out.
-- **Active player**: The player who set the current scene up.
+- **Active player / Active character**: The player who set the current scene up.
 - **Check**: A player will have to roll dice in order to determine whether their character succeeds or fails at non-trivial tasks.
 - **Gear**: Characters may find gear during the story they can use to help them survive.
 - **Tension Meters**: When a character fails at a task, tension meters will grow. When they overflow, an escalation occurs.
 - **Escalation**: An event that adds new elements and obstacles into the story. There are 5 in a game of Klaxons at Dawn, with the last one being the *final escalation*
 - **Final Escalation**: The last scenes as tension reach a fever pitch. This leads to the final moments of the story.
-
 
 ### Transport
 
@@ -52,6 +52,15 @@ Choose 1 of the following transports (or choose randomly):
 4. Ferry
 5. Large passenger plane
 6. Space ship
+
+### Setting
+
+The group should decide on the backdrop for the story. Some potential questions for the group:
+- Is it modern day? The past? The future?
+- Do the players start in a sparsely populated region? Or a city? 
+- Where are they going? Away from the threat? Towards a safe haven within a zombie hotspot?
+
+I like asking each member of the group to contribute a facet of the setting with a simple 1 or 2 word phrase!
 
 ### Utopian destination
 
@@ -71,6 +80,15 @@ Each players first scene should describe a facet of their normal lives and expla
 The director goes last in scene order. 
 When it's the directors turn, they describe a scene that escalates tensions with the zombie outbreak or the survivors and adds 1 to the relevant tension meter.
 The first director scene of the game should ALWAYS add 1 to the zombie tension meter.
+
+## The Survivors
+
+Each scene should be treated as a "Yes and" scene to the previous scenes. I do not recommend scenes undoing the work of previous player characters.
+
+In addition to this, no scene should split the party up for an extended period of time, unless an effect calls for it such as an escalation or character special move.
+
+The active player in a scene has the last word per decisions within their scene, though we encourage that discussion is had at the table around what would be best.
+Remember the goal is to make a great story, not to be the last character standing!
 
 ## Escalations
 
@@ -93,7 +111,7 @@ Gear is also useful during the final escalation, in that it can help your charac
 
 ## Checks
 
-If something would be non-trivial, then the player character needs to roll the dice. 
+If something would be non-trivial for any character to achieve, then the active player needs to roll the dice to determine whether their character succeeds or fails.
 This could be for anything, like killing zombies, obtaining helpful gear, convincing people, tricking people etc.
 
 When a character makes a check, they:
@@ -110,23 +128,23 @@ Roll the dice and count your successes:
 ### Success and Ratings
 Each character has two ratings: Personality and Aptitude. Successes are determined by the following:
 
-### Personality
-#### Leading, charming, being honest
+### Personality (For dealing with other peple)
+#### If a character is leading, charming, being honest
 When a player is honest and aiming to be convincing, charismatic, or show leadership they need to roll their Personality rating or under
-#### Deceiving, Sneaking, subverting
+#### If a character is deceiving, Sneaking, subverting
 When a player is aiming to trick or do something underhanded, they need to roll their Personality rating or above
 
-### Aptitude
-#### Fighting, running, leaping
+### Aptitude (For dealing with zombies and survival)
+#### If a character is fighting, running, leaping
 When a player is trying to kick some ass, or pull off something that is physically taxing, they need to roll their Aptitude rating or under
-#### Planning, building, fixing
+#### If a character is planning, building, fixing
 When a player is trying to create something, prove their knowledge, plan and support others, they need to roll their Aptitude rating or above
 
 # Tension Meters
 
 There are 2 tension meters:
-* Survivor: Representing the rising angst and fear among the PC or NPC survivors, or even in the general world.
-* Zombie: Representing the increasing power of the zombies as more people are turned in these opening days of the apocalypse.
+* **Survivor**: Representing the rising angst and fear among the PC or NPC survivors, or even in the general world.
+* **Zombie**: Representing the increasing power of the zombies as more people are turned in these opening days of the apocalypse.
 
 Each meter starts at 0
 
@@ -220,6 +238,8 @@ You have an iron will and a vision. You will do anything to protect those around
 **Advantage**: When convincing people to do the "right" thing.
 
 **Special**: Any time, you can add 1 to the survivor tension meter to get your way on a survivor group decision.
+
+**SPECIAL NOTE**: The Paragon special move is incredibly powerful and easily abused. We suggest that the Paragon player not use this ability because they, as a player, wish for a different outcome to a decision, but instead that they believe their *character* would wish for a different decision. This move is to be used judiciously...but it can make great tension between characters.
 
 ## Aptitude
 
