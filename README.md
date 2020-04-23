@@ -88,7 +88,7 @@ Each scene should be treated as a "Yes and" scene to the previous scenes. I do n
 
 In addition to this, no scene should split the party up for an extended period of time, unless an effect calls for it such as an escalation or character special move.
 
-The active player in a scene has the last word per decisions within their scene, though we encourage that discussion is had at the table around what would be best.
+The active player in a scene has the last word per decisions within their scene, though we encourage all players engage in a discussion on what would be the most fun.
 Remember the goal is to make a great story, not to be the last character standing!
 
 ## Escalations
@@ -124,7 +124,7 @@ Roll the dice and count your successes:
 - 0 - Failure. Add 1 to a tension meter
 - 1 - Mixed success. You do what you want but it also adds 1 to a tension meter.
 - 2 - Success. You do what you want with no downside.
-- 3 - Critical success. You do what you want super well. This gives an additional benefit, or can reduce a tension meter by 1.
+- 3 - Critical success. You do what you want super well. This gives an additional benefit, or can reduce a tension meter by 
 
 ### Success and Ratings
 Each character has two ratings: Personality and Aptitude. Successes are determined by the following:
@@ -164,16 +164,16 @@ If it's the fifth escalation, instead trigger The Final Escalation.
 3. A mutant mega zombie is introduced (can be in it's own scene and revealed to the player characters later)
 4. Zombies are now fast and can work together
 5. One of the survivor PCs or NPCs has been hiding a bite; they turn into a zombie suddenly and violently
-6. A PC is killed by a zombie
+6. A PC is killed by a zombie. They create a new character that is introduced in that players' next scene.
 
 ## Human Escalations
 
 1. Something happens that splits the party into two. The Director chooses who gets paired.
-2. Surivior party runs into another group of survivors, but they are hostile.
+2. The party runs into another group of survivors, but they are hostile.
 3. The vehicle blows up and the survivors will have to find an alternative transport.
 4. A military operations unit shows up, purging zombies and survivors alike.
 5. A player character has an epiphany which causes a personality shift (they move their personality rating up or down 1)
-6. A player character is killed by a human survivor
+6. A PC is killed by another PC or NPC. They create a new character that is introduced in that players' next scene.
 
 # The Final Escalation
 
@@ -217,7 +217,7 @@ Your motivation is simple: Take care of number one. You carved out a dark little
 
 **Advantage**: When you're lying to people, being underhanded.
 
-**Special**: One time, you can give the players an alternative to a decision made by the active character or Paragon. All other players can choose to go with you, or stay with the active player or Paragon.
+**Special Move**: _Split the Party_: One time, you can give the players an alternative to a decision made by the active character or Paragon. All other players can choose to go with you, or stay with the active player or Paragon.
 
 ### 3 Wildcard
 You're a go getter. You get things done when no one else could. Some say you're too extreme. Some say you're bat shit insane. But you come out on top when no one expects it. Physically you're not much to look at, but you've got more in the tank than people think. So let them underestimate you. That's how you like it.
@@ -231,14 +231,14 @@ How did you even get in this situation? Work, TV, friends, you liked your simple
 
 **Advantage**: When you're calming people down, bringing people together.
 
-**Special**: One time, you can get an automatic critical success on a check instead of rolling.
+**Special Move**: _Coming through_: One time, you can get an automatic critical success on a check instead of rolling.
 
 ### 5 Paragon
 You have an iron will and a vision. You will do anything to protect those around you, friend or enemy. You can save everyone, and you demand success from this dark world. Your unshakable belief will lead to safety, or maybe salvation. You know what's best for them, even if they don't agree sometimes.
 
 **Advantage**: When convincing people to do the "right" thing.
 
-**Special**: Any time, you can add 1 to the survivor tension meter to get your way on a survivor group decision.
+**Special Move**: _You know best_: Any time, you can add 1 to the survivor tension meter to get your way on a survivor group decision.
 
 **SPECIAL NOTE**: The Paragon special move is incredibly powerful and easily abused. We suggest that the Paragon player not use this ability because they, as a player, wish for a different outcome to a decision, but instead that they believe their *character* would wish for a different decision. This move is to be used judiciously...but it can make great tension between characters.
 
@@ -249,25 +249,25 @@ You can see what that others can't. The ties and tensions between people, the fo
 
 **Advantage**: When hatching a plan.
 
-**Special**: _When a plan comes together_: One time, you can choose to give all other PCs an extra die to use on checks on bringing the plan together.
+**Special Move**: _Of course!_: One time, you can 'discover' a weakness that all the zombies suffer from (Mastermind gets to make it up)
 
 ### 3 Support
 You have dedicated your life to helping others. You've seen what happens when people take what they need and give nothing back. Now more than ever you know that being there for those around you is the only chance you all have at surviving.
 
 **Advantage**: When helping another.
 
-**Special**: _Helping hand_:One time, you can help another player by giving them a critical success instead of them rolling.
+**Special Move**: _Helping hand_: One time, you can help another player by giving them a critical success instead of them rolling.
 
 ### 4 Survivalist
 You were prepared for this. Whether you wanted it to happen, or whether it kept you up at night, you've got everything you need in that head of yours. Surround yourself with people that are useful, and the rest...well they aren't going to make it anyway. Just follow your rules, and don't do anything stupid.
 
 **Advantage**: When being pragmatic, knowing things.
 
-**Special**: _Prepared_: One time, you have "just the right thing for the job" and gain exactly the piece of gear you want.
+**Special Move**: _Prepared_: One time, you have "just the right thing for the job" and gain exactly the piece of gear you want.
 
 ### 5 Warrior
 Maybe you had the fight in you all along. Maybe the Klaxons awakened something in you that slept, dormant just under the surface. Either way, you were born for a violent world. You are a primal force to be reckoned with, and nothing is standing between you, your loves ones, and survival.
 
 **Advantage**: Beating the ever loving crap out of something.
 
-**Special**: _Unbreakable_: You cannot be killed by zombies, unless you willingly sacrifice yourself for another.
+**Special Move**: _Unbreakable_: You cannot be killed by zombies, unless you willingly sacrifice yourself for another.
