@@ -2,7 +2,7 @@
 
 A game about a group of strangers banding together to survive the start of the zombie apocalypse while trapped on a runaway transport.
 
-Klaxons at Dawn is a role playing game which aims to invoke the zombie movie Train to Busan. All players have equal input into the collaborative creation of the story, with most players taking the role of survivors, and 1 player taking the role of the zombie threat.
+Klaxons at Dawn is a role playing game which aims to evoke the zombie movie Train to Busan. All players have equal input into the collaborative creation of the story, with most players taking the role of survivors, and 1 player taking the role of the zombie threat.
 
 ## Content Warnings
 - Zombies
@@ -192,12 +192,12 @@ Players take turns picking dice from this central pool. Once this is over, each 
 
 All 1 dice can be used as wild on the Personality table. All 6 dice can be used as wild on the Aptitude table. The last dice is always a wild.
 
-eg. A player could take a 2 from the pool and proclaim they are either a Surivalist or a Support. The next die they take would then represent the other rating.
+eg. A player could take a 2 from the pool and proclaim they are either a Wildcard in Personality or a Support in Aptitude. The next die they take would then represent the other rating.
 
 ## Personality
 
 2. Miscreant
-3. Survivalist
+3. Wildcard
 4. Average Joe
 5. Paragon
 
@@ -205,7 +205,7 @@ eg. A player could take a 2 from the pool and proclaim they are either a Surival
 
 2. Mastermind
 3. Support
-4. Wildcard
+4. Survivalist
 5. Warrior
 
 # Characters
