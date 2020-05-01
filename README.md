@@ -69,18 +69,22 @@ The group should decide on a name for the destination. This place has the outbre
 
 ## Scenes
 
-Players should be seated in a circle. 
-Progressing clockwise, the players take turns describing a scene setup that involves their character. 
+As the game begins, players should take turns setting up a scene that describes a facet of their normal lives, and explains how they found themselves on the transport that day.
+As one player ends their scene, another character starts theirs.
+The Director should note the order, as this decides the scene order that people will take moving forward.
+
+Progressing through this order, the players continue to take turns describing a scene setup that involves their character. 
 This scene is then played out among the players, though not all PCs need to be involved in all scenes. 
 
 The best scenes display the strengths or weaknesses of the active player character through the lens of the evolving predicaments facing the survivors.
 They should be short and snappy, ideally no more than 5 minutes.
 
-Each players first scene should describe a facet of their normal lives and explain how they found themselves on the transport that day.
-
 The director goes last in scene order. 
 When it's the directors turn, they describe a scene that escalates tensions with the zombie outbreak or the survivors and adds 1 to the relevant tension meter.
 The first director scene of the game should ALWAYS add 1 to the zombie tension meter.
+
+Whenever an escalation occurs, reset the scene order.
+We reccommend that all players begin standing up, and when they begin their scene they sit down. This ensures the order is clockwise which makes things easy, and gets people moving.
 
 ## The Survivors
 
@@ -140,6 +144,17 @@ When a player is aiming to trick or do something underhanded, they need to roll 
 When a player is trying to kick some ass, or pull off something that is physically taxing, they need to roll their Aptitude rating or under
 #### If a character is planning, building, fixing
 When a player is trying to create something, prove their knowledge, plan and support others, they need to roll their Aptitude rating or above
+
+### Inter PC Checks
+This is a game where the characters may not see eye to eye, and some may be in conflict at the core of their personalities.
+Characters will also naturally be able to express power over other characters, such as a Paragon or Miscreant.
+This can create player tension.
+All players should remember they are writers for their character, not the character themselves.
+
+While a player character can roll a check to express their intent over another player character, this should be done with the consent of the player who's character this will effect.
+Even if this check is successful, the victim of this coercion may choose to instead reject this intent and instead add 1 to the survivor tension meter.
+This is to make sure there is a pressure valve for tension between players, though ideally it should not be necessary.
+Each of you have the final say in your characters choices, but remember that bad choices can create a much more fun story!
 
 # Tension Meters
 
