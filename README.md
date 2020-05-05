@@ -79,6 +79,10 @@ This scene is then played out among the players, though not all PCs need to be i
 The best scenes display the strengths or weaknesses of the active player character through the lens of the evolving predicaments facing the survivors.
 They should be short and snappy, ideally no more than 5 minutes.
 
+After the first round of scenes, we recommend every scene be framed around a check that the active player will make. 
+The check can be made up front, and then the players role play towards that outcome, or you can wait to make the check.
+This helps if players aren't sure where to go next, make them think about what their player is good at and ask them what that can contribute.
+
 The director goes last in scene order. 
 When it's the directors turn, they describe a scene that escalates tensions with the zombie outbreak or the survivors and adds 1 to the relevant tension meter.
 The first director scene of the game should ALWAYS add 1 to the zombie tension meter.
