@@ -100,7 +100,7 @@ Remember the goal is to make a great story, not to be the last character standin
 As the game progresses, PCs will roll dice to see if their player character succeeds or fails at certain activities. 
 When they fail, things get worse for the survivors. 
 This is represented by **Tension Meters**, and when they overflow, an escalation event occurs.
-The game ends after the 5th escalation, triggering the final escalation.
+The game ends after the 4th escalation, triggering the final escalation.
 If the PCs made it to the utopian destination at the end of this, they did it!
 
 ## Gear
@@ -166,11 +166,11 @@ Each meter starts at 0
 
 Whenever a player fails a check, add 1 to either the survivor or zombie tension meter (Director should choose which they feel is more appropriate).
 
-Whenever a tension meter reaches the number of players, an escalation happens. 
+Whenever a tension meter reaches 4, an escalation happens. 
 Escalations add new elements, obstacles and challenges into the story.
 
 When an escalation happens, the Director should mark it down and then roll on the associated table. 
-If it's the fifth escalation, instead trigger The Final Escalation.
+If it's the 4th escalation, instead trigger The Final Escalation.
 
 ## Zombie Escalations
 
